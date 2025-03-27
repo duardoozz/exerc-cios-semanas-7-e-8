@@ -39,7 +39,7 @@ console.log("O produto dos valores é:", produto);
 
 
 ```
-Qual das seguintes alternativas melhor descreve o que o código faz?
+Qual das seguintes alternativas melhor descreve o que o código faz? (A)
 
 A) O código avalia a expressão booleana, imprime `true`, calcula o produto dos números na lista e imprime o resultado no console. - correta
 
@@ -52,7 +52,7 @@ D) O código avalia a expressão booleana, imprime `false` e ordena os valores e
 
 ______
 
-**2)** O código a seguir contém duas funções que calculam o limite de crédito de um cliente com base nos seus gastos e na renda mensal.
+**2)** O código a seguir contém duas funções que calculam o limite de crédito de um cliente com base nos seus gastos e na renda mensal. (A)
 
 ```javascript
 // Versão 1 da função de análise de crédito
@@ -112,7 +112,7 @@ C) analisarCredito1() exibirá: 'Seu crédito foi negado. Saldo disponível: -20
 D) Ambas as funções exibirão: 'Seu crédito foi aprovado Saldo disponível: 500.'
 ______
 
-**3)** Considere o seguinte trecho de código em JavaScript:
+**3)** Considere o seguinte trecho de código em JavaScript: (B)
 ```javascript
 //EX03
 const idade = 21;
@@ -136,7 +136,7 @@ C) O código verifica se a idade está entre 18 e 60 anos e, se for, imprime "Vo
 D) O código verifica se a idade é menor de 18, entre 18 e 60 ou acima de 60, imprimindo uma mensagem específica para cada caso.
 ______
 
-**4)** Qual será o resultado impresso no console após a execução do seguinte código?
+**4)** Qual será o resultado impresso no console após a execução do seguinte código? (D)
 ```javascript
 //EX04
 var energiaDisponivel = 1200;
@@ -205,7 +205,7 @@ Dispositivo 5 não pode ser ligado. Energia insuficiente.
 
 ______
 
-**5)** Qual é a principal função do método update() em um jogo desenvolvido com Phaser.js?
+**5)** Qual é a principal função do método update() em um jogo desenvolvido com Phaser.js? (B)
 
 Escolha a opção que melhor descreve seu propósito:
 
@@ -218,7 +218,7 @@ C) O método update() renderiza todos os sprites na tela e garante que a física
 D) O método update() é chamado apenas uma vez após a criação da cena, sendo utilizado para configurar variáveis iniciais do jogo.
 ______
 
-**6)** Qual é o principal objetivo do módulo Matter.js Physics em Phaser.js?
+**6)** Qual é o principal objetivo do módulo Matter.js Physics em Phaser.js? (A)
 
 Escolha a opção que responde corretamente:
 
